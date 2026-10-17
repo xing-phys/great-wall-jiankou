@@ -22,5 +22,6 @@
   "license": "MIT",
   "engines": {
     "node": ">=20.19"
-  }
+  },
+  "homepage": "https://xing-phys.github.io/great-wall-jiankou/"
 }

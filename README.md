@@ -4,6 +4,20 @@
 
 ![箭扣长城三维场景](docs/hero.png)
 
+**在线演示 / Live demo:** <https://xing-phys.github.io/great-wall-jiankou/> · [![Deploy](https://github.com/xing-phys/great-wall-jiankou/actions/workflows/pages.yml/badge.svg)](https://github.com/xing-phys/great-wall-jiankou/actions/workflows/pages.yml)
+
+## English
+
+An interactive, browser-based 3D reconstruction of the Jiankou Great Wall. Real SRTM terrain and OpenStreetMap wall traces are combined with procedurally built Ming masonry, watchtowers and vegetation. Orbit the ridge, read the full-route elevation profile, or walk the parapet from True North Tower to Nine-Eye Tower; a time-of-day slider drives the sun, sky, clouds and shadows.
+
+- 7.6 km main wall, ~50 watchtowers, 9 landmarks and 3 scenic branches.
+- Orbit camera and pointer-locked first-person walking.
+- Procedural brick, paving, terrain textures, trees and rocks — no external image assets.
+- Full-quality scene loads about 2.5 MB of terrain and geometry data.
+- All wall and tower geometry is interpretive, not survey-grade.
+
+The Chinese sections below contain the full build notes and data sources.
+
 ## 内容
 
 - **主墙约 7.6 km**：从东端的**正北楼**（122 号敌台）经**小布达拉**（128）、**箭扣**、**将军守关**（142）、**天梯**（146）、**鹰飞倒仰**、**北京结**，向北到**九眼楼**。另有**西大墙**、东段、九眼楼西北段三条景观支线。
@@ -33,6 +47,14 @@ pnpm dev
 pnpm build      # 类型检查 + 生产构建到 dist/
 pnpm preview    # 预览生产构建
 ```
+
+## 部署 / Deployment
+
+推送到 `main` 会自动触发 [`.github/workflows/pages.yml`](.github/workflows/pages.yml)，构建并发布到 GitHub Pages：
+
+**<https://xing-phys.github.io/great-wall-jiankou/>**
+
+页面使用相对路径构建，因此同一份 `dist/` 也可以部署在任意子路径。首次在仓库 Settings → Pages 中把 Source 设为 **GitHub Actions**（本仓库已配置）。
 
 如果安装时提示 esbuild 的构建脚本被忽略，运行一次 `pnpm approve-builds --all` 即可；本项目使用 esbuild 的预编译平台二进制，通常直接 `pnpm dev` 也能工作。
 
