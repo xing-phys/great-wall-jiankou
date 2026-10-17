@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta
+      name="description"
+      content="箭扣长城三维重建：北京结、鹰飞倒仰、天梯、将军守关、箭扣、小布达拉、正北楼。可俯瞰，也可沿城墙行走。"
+    />
+    <meta name="theme-color" content="#080a09" />
+    <title>箭扣 · JIANKOU — 三维长城</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23080a09'/%3E%3Crect x='12' y='12' width='40' height='40' fill='none' stroke='%23c25a3a' stroke-width='2'/%3E%3Cpath d='M20 42 32 20l12 22' fill='none' stroke='%23e9e1d2' stroke-width='2'/%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="scene" aria-label="箭扣长城三维场景"></canvas>
+      <div id="grade"></div>
+      <div id="labels"></div>
+
+      <header class="brand">
+        <div class="brand-rule"></div>
+        <div class="brand-kicker">MING GREAT WALL &nbsp;·&nbsp; HUAIROU</div>
+        <div class="brand-title-row">
+          <h1>箭扣</h1>
+          <span class="seal">箭</span>
+        </div>
+        <div class="brand-en">JIAN<span>KOU</span></div>
+        <p class="brand-sub">北京结 · 鹰飞倒仰 · 天梯 · 正北楼</p>
+        <div class="brand-coords">40.462° N &nbsp; 116.514° E &nbsp;·&nbsp; 怀柔 · 北京</div>
+      </header>
+
+      <aside class="map-panel" aria-label="路线图">
+        <div class="map-head"><span>ROUTE</span><span>箭扣全线</span></div>
+        <canvas id="minimap"></canvas>
+        <div class="map-foot"><span>北 ↑ · 1 km</span><span>33 座敌台 · 7.7 km</span></div>
+      </aside>
+
+      <section id="info" class="info is-hidden" aria-live="polite">
+        <button id="info-close" class="info-close" aria-label="关闭">×</button>
+        <div class="info-eyebrow"><span id="info-no">01</span><span id="info-kind">敌台 · TOWER</span></div>
+        <h2 id="info-name">正北楼</h2>
+        <div id="info-en" class="info-en">TRUE NORTH TOWER</div>
+        <div class="info-meta"><span id="info-elev">海拔 1031 m</span><span id="info-dist">全线起点</span></div>
+        <p id="info-desc"></p>
+        <div class="info-actions">
+          <button id="info-walk" class="btn btn-primary">在城墙上行走</button>
+          <button id="info-fly" class="btn btn-ghost">靠近观看</button>
+        </div>
+      </section>
+
+      <nav class="modebar" aria-label="视角模式">
+        <button id="mode-overview" class="mode is-active"><span>俯瞰</span><em>ORBIT</em></button>
+        <button id="mode-walk" class="mode"><span>行走</span><em>WALK</em></button>
+      </nav>
+
+      <div class="lightbar">
+        <div class="light-label"><span class="sun-dot"></span><span id="clock">16:12</span></div>
+        <input id="sun" type="range" min="6.2" max="18.6" step="0.1" value="16.2" aria-label="光照时刻" />
+        <div class="light-caption">光照时刻 &nbsp;·&nbsp; LIGHT</div>
+      </div>
+
+      <div id="walkbar" class="walkbar is-hidden" aria-live="polite">
+        <div class="walkplace">
+          <span id="walk-section">北京结</span>
+          <span id="walk-sub">鹰飞倒仰 · 0.9 km</span>
+        </div>
+        <div class="walkstats">
+          <div><b id="walk-alt">976</b><em>m 海拔</em></div>
+          <div><b id="walk-next">0.90</b><em id="walk-next-label">km 下一站</em></div>
+        </div>
+      </div>
+
+      <div id="rail" class="rail" aria-label="路线纵断面">
+        <div class="rail-head"><span>箭扣长城 · 纵断面</span><span id="rail-distance">正北楼 0 — 7.7 km 九眼楼</span></div>
+        <div class="rail-plot">
+          <svg id="profile" viewBox="0 0 1000 64" preserveAspectRatio="none" aria-hidden="true"></svg>
+          <div id="rail-points" class="rail-points"></div>
+          <div id="rail-marker" class="rail-marker is-hidden"></div>
+        </div>
+      </div>
+
+      <div id="hint" class="hint">拖动旋转 · 滚轮缩放 · 点击地标</div>
+      <div id="crosshair" class="crosshair is-hidden" aria-hidden="true"></div>
+      <div id="lockhint" class="lockhint is-hidden">点击画面 · 进入第一人称</div>
+      <button id="credits-btn" class="credits-btn">数据与说明</button>
+
+      <div id="credits" class="credits" role="dialog" aria-modal="true" aria-label="数据与说明">
+        <div class="credits-inner">
+          <button id="credits-close" class="info-close" aria-label="关闭">×</button>
+          <div id="credits-body"></div>
+        </div>
+      </div>
+
+      <div id="toast" class="toast" aria-live="polite"></div>
+      <div id="fade" class="fade" aria-hidden="true"></div>
+
+      <div class="loading" id="loading">
+        <div class="loading-inner">
+          <div class="loading-kicker">JIANKOU &nbsp;·&nbsp; 40.46° N</div>
+          <div class="loading-title">箭扣</div>
+          <div class="loading-line"><span id="load-bar"></span></div>
+          <div class="loading-status" id="load-status">正在读取地形…</div>
+        </div>
+        <div class="loading-foot">明长城 · 怀柔 · 北京</div>
+      </div>
+
+      <noscript>
+        <div class="noscript">需要启用 JavaScript 才能进入箭扣长城三维场景。</div>
+      </noscript>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

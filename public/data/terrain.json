@@ -1,0 +1,25 @@
+{
+  "bbox": [
+    116.451,
+    40.424,
+    116.576,
+    40.5
+  ],
+  "zoom": 14,
+  "size": [
+    1024,
+    813
+  ],
+  "origin": [
+    116.5135,
+    40.462
+  ],
+  "minElevation": 128.55616760253906,
+  "maxElevation": 1518.9208984375,
+  "metersPerPixel": [
+    10.349012996365248,
+    10.41911330049268
+  ],
+  "encoding": "terrarium",
+  "source": "AWS Open Data Terrain Tiles / Mapzen (SRTM-derived), public domain"
+}

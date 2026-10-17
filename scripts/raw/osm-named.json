@@ -1,0 +1,3176 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-17T11:16:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 480314866,
+  "lat": 40.4532492,
+  "lon": 116.5174173,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南135号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 480314877,
+  "lat": 40.4534753,
+  "lon": 116.5155058,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南136号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 480314910,
+  "lat": 40.4563274,
+  "lon": 116.5108843,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南139号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 982634281,
+  "lat": 40.4544338,
+  "lon": 116.5445629,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 29",
+    "name:en": "Tower 29",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 982634292,
+  "lat": 40.4534609,
+  "lon": 116.5438943,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 28",
+    "name:en": "Tower 28",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 982634320,
+  "lat": 40.4532470,
+  "lon": 116.5421096,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 31",
+    "name:en": "Tower 31",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653487,
+  "lat": 40.4515711,
+  "lon": 116.5461254,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 25",
+    "name:en": "Tower 25",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653529,
+  "lat": 40.4558543,
+  "lon": 116.5315372,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南126号敌台",
+    "name:zh": "雁栖镇西栅子村东南126号敌台",
+    "name:zh-Hans": "雁栖镇西栅子村东南126号敌台",
+    "name:zh-Hant": "雁栖鎮西柵子村東南126號敵台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653543,
+  "lat": 40.4509383,
+  "lon": 116.5474954,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 24",
+    "name:en": "Tower 24",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653547,
+  "lat": 40.4514354,
+  "lon": 116.5445894,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 26",
+    "name:en": "Tower 26",
+    "name:es": "Torre 26",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653590,
+  "lat": 40.4530630,
+  "lon": 116.5402694,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 32",
+    "name:en": "Tower 32",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653596,
+  "lat": 40.4544135,
+  "lon": 116.5432031,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 30",
+    "name:en": "Tower 30",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653626,
+  "lat": 40.4561921,
+  "lon": 116.5305371,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南127号敌台",
+    "name:zh": "雁栖镇西栅子村东南127号敌台",
+    "name:zh-Hans": "雁栖镇西栅子村东南127号敌台",
+    "name:zh-Hant": "雁栖鎮西柵子村東南127號敵台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653667,
+  "lat": 40.4563688,
+  "lon": 116.5285457,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南129号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653704,
+  "lat": 40.4545111,
+  "lon": 116.5360503,
+  "tags": {
+    "alt_name": "雁栖镇西栅子村东南122号敌台",
+    "ele": "1031",
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "正北楼",
+    "name:en": "Zhengbeilou/Right North Tower",
+    "name:zh": "正北楼",
+    "name:zh-Hans": "正北楼",
+    "name:zh-Hant": "正北樓",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653779,
+  "lat": 40.4556249,
+  "lon": 116.5321661,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南125号敌台",
+    "name:zh": "雁栖镇西栅子村东南125号敌台",
+    "name:zh-Hans": "雁栖镇西栅子村东南125号敌台",
+    "name:zh-Hant": "雁栖鎮西柵子村東南125號敵台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653797,
+  "lat": 40.4554752,
+  "lon": 116.5251637,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南131号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653836,
+  "lat": 40.4561009,
+  "lon": 116.5275025,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南130号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038653840,
+  "lat": 40.4548754,
+  "lon": 116.5339834,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南123号敌台",
+    "name:zh": "雁栖镇西栅子村东南123号敌台",
+    "name:zh-Hans": "雁栖镇西栅子村东南123号敌台",
+    "name:zh-Hant": "雁栖鎮西柵子村東南123號敵台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038724363,
+  "lat": 40.4560580,
+  "lon": 116.5066130,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南141号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038724384,
+  "lat": 40.4566584,
+  "lon": 116.5056694,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南142号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038724469,
+  "lat": 40.4547131,
+  "lon": 116.5139321,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南137号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038724488,
+  "lat": 40.4540994,
+  "lon": 116.5217558,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南133号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038800733,
+  "lat": 40.4562500,
+  "lon": 116.5036824,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南144号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038800790,
+  "lat": 40.4719308,
+  "lon": 116.4990595,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南160号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801108,
+  "lat": 40.4602968,
+  "lon": 116.4967115,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南152号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801213,
+  "lat": 40.4696610,
+  "lon": 116.4967486,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南159号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801324,
+  "lat": 40.4743885,
+  "lon": 116.5009670,
+  "tags": {
+    "alt_name": "雁栖镇西栅子村西南163号敌台",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "白石台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801364,
+  "lat": 40.4658265,
+  "lon": 116.4954332,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南156号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801382,
+  "lat": 40.4749453,
+  "lon": 116.5010532,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南164号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801388,
+  "lat": 40.4612122,
+  "lon": 116.4956922,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南153号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801400,
+  "lat": 40.4627959,
+  "lon": 116.4941628,
+  "tags": {
+    "alt_name": "渤海镇庄户村南154号敌台",
+    "ele": "958",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "北京结",
+    "name:en": "Beijing Knot / Beijing Jie"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801430,
+  "lat": 40.4705282,
+  "lon": 116.4979294,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南161号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801703,
+  "lat": 40.4674876,
+  "lon": 116.4951847,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南157号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801789,
+  "lat": 40.4550745,
+  "lon": 116.5010650,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南146号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801928,
+  "lat": 40.4778902,
+  "lon": 116.5026936,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南167号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038801975,
+  "lat": 40.4648421,
+  "lon": 116.4943249,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南155号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802031,
+  "lat": 40.4815209,
+  "lon": 116.5001282,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "延庆县109号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802060,
+  "lat": 40.4686235,
+  "lon": 116.4956318,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南158号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802343,
+  "lat": 40.4596958,
+  "lon": 116.4979223,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南151号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802392,
+  "lat": 40.4818409,
+  "lon": 116.5023427,
+  "tags": {
+    "alt_name": "雁栖镇西栅子村西南169号敌台 / 延庆县108号敌台",
+    "ele": "1141",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "九眼楼",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802397,
+  "lat": 40.4574773,
+  "lon": 116.4734036,
+  "tags": {
+    "ele": "818.8",
+    "name": "小火焰山",
+    "name:en": "Xiao Huoyanshan",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802418,
+  "lat": 40.4563353,
+  "lon": 116.5052121,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南143号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802451,
+  "lat": 40.4558238,
+  "lon": 116.5020636,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南145号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038802459,
+  "lat": 40.4762625,
+  "lon": 116.5023780,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南165号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038803518,
+  "lat": 40.4584913,
+  "lon": 116.4981347,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南150号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1038803599,
+  "lat": 40.4770810,
+  "lon": 116.5024526,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南166号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1069937210,
+  "lat": 40.4851975,
+  "lon": 116.5045752,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "延庆县300号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1334717599,
+  "lat": 40.4641787,
+  "lon": 116.5137868,
+  "tags": {
+    "bus": "yes",
+    "name": "西栅子西",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1334717600,
+  "lat": 40.4702142,
+  "lon": 116.5328722,
+  "tags": {
+    "bus": "yes",
+    "name": "西栅子东",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502009574,
+  "lat": 40.4326731,
+  "lon": 116.4744515,
+  "tags": {
+    "bus": "yes",
+    "name": "龙泉庄",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1652674182,
+  "lat": 40.4883899,
+  "lon": 116.5097692,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "延庆县301号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951000514,
+  "lat": 40.4785591,
+  "lon": 116.5029639,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南168号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951373987,
+  "lat": 40.4525334,
+  "lon": 116.5438380,
+  "tags": {
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "Tower 27",
+    "name:en": "Tower 27",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951374304,
+  "lat": 40.4535063,
+  "lon": 116.5204322,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南134号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951374557,
+  "lat": 40.4544347,
+  "lon": 116.5001809,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南147号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951374575,
+  "lat": 40.4546447,
+  "lon": 116.5228415,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南132号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951374652,
+  "lat": 40.4552933,
+  "lon": 116.5121571,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南138号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951374707,
+  "lat": 40.4555511,
+  "lon": 116.5330560,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南124号敌台",
+    "name:zh": "雁栖镇西栅子村东南124号敌台",
+    "name:zh-Hans": "雁栖镇西栅子村东南124号敌台",
+    "name:zh-Hant": "雁栖鎮西柵子村東南124號敵台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1951375053,
+  "lat": 40.4566271,
+  "lon": 116.5077474,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "西栅子村南140号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 1955863659,
+  "lat": 40.4301720,
+  "lon": 116.5440657,
+  "tags": {
+    "bus": "yes",
+    "name": "北沟村",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2006467720,
+  "lat": 40.4301548,
+  "lon": 116.5445881,
+  "tags": {
+    "name": "北沟村",
+    "name:en": "Beigou",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2006467726,
+  "lat": 40.4303051,
+  "lon": 116.5323588,
+  "tags": {
+    "name": "卜子",
+    "name:en": "Buzi",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3425730101,
+  "lat": 40.4913322,
+  "lon": 116.5657908,
+  "tags": {
+    "bus": "yes",
+    "name": "濂泉响谷",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 3781157981,
+  "lat": 40.4698668,
+  "lon": 116.5320811,
+  "tags": {
+    "name": "西栅子村",
+    "name:en": "Xizhazi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3781157989,
+  "lat": 40.4646838,
+  "lon": 116.5131232,
+  "tags": {
+    "name": "旧水坑村",
+    "name:en": "Jiushuikeng",
+    "name:es": "Jiushuikeng",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3782946575,
+  "lat": 40.4659735,
+  "lon": 116.4757412,
+  "tags": {
+    "name": "庄户村",
+    "name:en": "Zhuanghu",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4116294061,
+  "lat": 40.4310972,
+  "lon": 116.5568160,
+  "tags": {
+    "name": "过渡车站",
+    "name:en": "Visitor Shuttle Terminal",
+    "name:zh": "过渡车站",
+    "name:zh-Hans": "过渡车站",
+    "name:zh-Hant": "過渡車站",
+    "opening_hours": "07:20-19:00",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4516882722,
+  "lat": 40.4548263,
+  "lon": 116.5458265,
+  "tags": {
+    "ele": "1039",
+    "name": "牛角边",
+    "name:en": "Niujiaobian",
+    "name:zh": "牛角边",
+    "name:zh-Hans": "牛角边",
+    "name:zh-Hant": "牛角邊",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 4793238731,
+  "lat": 40.4541352,
+  "lon": 116.5381349,
+  "tags": {
+    "alt_name": "桃峪村北121号敌台",
+    "historic": "yes",
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "东一楼",
+    "name:en": "Dongyilou",
+    "name:zh": "东一楼",
+    "name:zh-Hans": "东一楼",
+    "name:zh-Hant": "東一樓",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 4809692321,
+  "lat": 40.4658431,
+  "lon": 116.5309132,
+  "tags": {
+    "name": "南吉利",
+    "name:en": "Nanjili",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4945066539,
+  "lat": 40.4801936,
+  "lon": 116.5698589,
+  "tags": {
+    "name": "八道河村",
+    "name:en": "Badaohe",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4959578321,
+  "lat": 40.4530291,
+  "lon": 116.5403805,
+  "tags": {
+    "historic": "castle",
+    "name": "Tower",
+    "name:en": "Tower"
+  }
+},
+{
+  "type": "node",
+  "id": 5218788377,
+  "lat": 40.4402598,
+  "lon": 116.5593906,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stone",
+    "name": "Henkel",
+    "name:en": "Henkel",
+    "source": "https://www.flickr.com/photos/125134384@N03/33028788183/in/album-72157678942446813/"
+  }
+},
+{
+  "type": "node",
+  "id": 5728617221,
+  "lat": 40.4642146,
+  "lon": 116.5138139,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "西栅子西",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5769604821,
+  "lat": 40.4345227,
+  "lon": 116.4731004,
+  "tags": {
+    "name": "龙泉庄村",
+    "name:en": "Longquanzhuang",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5769604832,
+  "lat": 40.4307709,
+  "lon": 116.5319208,
+  "tags": {
+    "name": "田仙峪村",
+    "name:en": "Tianxianyu",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5769604833,
+  "lat": 40.4311431,
+  "lon": 116.5577600,
+  "tags": {
+    "name": "慕田峪长城",
+    "name:en": "Mutianyu Great Wall",
+    "name:zh": "慕田峪长城",
+    "name:zh-Hans": "慕田峪长城",
+    "name:zh-Hant": "慕田峪長城",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5893874405,
+  "lat": 40.4312067,
+  "lon": 116.5644005,
+  "tags": {
+    "amenity": "cafe",
+    "name": "咖啡",
+    "name:zh": "咖啡",
+    "name:zh-Hans": "咖啡",
+    "name:zh-Hant": "咖啡",
+    "outdoor_seating": "yes",
+    "smoking": "yes",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5893874414,
+  "lat": 40.4362853,
+  "lon": 116.5619857,
+  "tags": {
+    "name": "玻璃栈道",
+    "name:en": "Glass Ladder",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5893874422,
+  "lat": 40.4344275,
+  "lon": 116.5607026,
+  "tags": {
+    "name": "Shopping area",
+    "organic": "no",
+    "shop": "convenience",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6829609294,
+  "lat": 40.4718693,
+  "lon": 116.5384923,
+  "tags": {
+    "bus": "yes",
+    "name": "南沟",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6829609295,
+  "lat": 40.4699357,
+  "lon": 116.5306072,
+  "tags": {
+    "bus": "yes",
+    "name": "西栅子",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6953837334,
+  "lat": 40.4604067,
+  "lon": 116.4556687,
+  "tags": {
+    "name": "边坑",
+    "name:en": "Biankeng",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956810994,
+  "lat": 40.4973164,
+  "lon": 116.4674815,
+  "tags": {
+    "name": "三楼",
+    "name:en": "Sanlou",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956810995,
+  "lat": 40.4950646,
+  "lon": 116.4744338,
+  "tags": {
+    "name": "东城",
+    "name:en": "Dongcheng",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956810996,
+  "lat": 40.4958479,
+  "lon": 116.4883383,
+  "tags": {
+    "name": "东长沟",
+    "name:en": "Dongchanggou",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956810997,
+  "lat": 40.4942161,
+  "lon": 116.4741119,
+  "tags": {
+    "name": "石窑",
+    "name:en": "Shiyao",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956810999,
+  "lat": 40.4901259,
+  "lon": 116.4855119,
+  "tags": {
+    "leisure": "park",
+    "name": "九眼楼长城景区"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811000,
+  "lat": 40.4900319,
+  "lon": 116.4856403,
+  "tags": {
+    "name": "山湾",
+    "name:en": "Shanwan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811001,
+  "lat": 40.4880246,
+  "lon": 116.4885049,
+  "tags": {
+    "name": "涝洼子",
+    "name:en": "Laowazi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811002,
+  "lat": 40.4970263,
+  "lon": 116.5170265,
+  "tags": {
+    "ele": "1534",
+    "name": "黑坨山",
+    "name:en": "Heituoshan",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811003,
+  "lat": 40.4713584,
+  "lon": 116.5312086,
+  "tags": {
+    "name": "降福窑",
+    "name:en": "Jiangfuyao",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811004,
+  "lat": 40.4692709,
+  "lon": 116.5323482,
+  "tags": {
+    "name": "前栅子",
+    "name:en": "Qianzhazi",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811005,
+  "lat": 40.4720086,
+  "lon": 116.5289574,
+  "tags": {
+    "name": "后栅子",
+    "name:en": "Houzhazi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811006,
+  "lat": 40.4739577,
+  "lon": 116.5265395,
+  "tags": {
+    "name": "对石",
+    "name:en": "Duishi",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811007,
+  "lat": 40.4709105,
+  "lon": 116.5385205,
+  "tags": {
+    "name": "南沟",
+    "name:en": "Nangou",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811008,
+  "lat": 40.4759671,
+  "lon": 116.5604865,
+  "tags": {
+    "name": "大冷沟",
+    "name:en": "Dalenggou",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811009,
+  "lat": 40.4833372,
+  "lon": 116.5620924,
+  "tags": {
+    "name": "黄梁子",
+    "name:en": "Huangliangzi",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811012,
+  "lat": 40.4610084,
+  "lon": 116.5195481,
+  "tags": {
+    "name": "马架子",
+    "name:en": "Majiazi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811013,
+  "lat": 40.4596979,
+  "lon": 116.5177491,
+  "tags": {
+    "name": "观蓝谷",
+    "name:en": "Guanlangu",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811014,
+  "lat": 40.4667512,
+  "lon": 116.5185062,
+  "tags": {
+    "historic": "memorial",
+    "name": "人民烈士纪念碑",
+    "name:en": "Monument to the People's Martyrs"
+  }
+},
+{
+  "type": "node",
+  "id": 6956811016,
+  "lat": 40.4879702,
+  "lon": 116.5499918,
+  "tags": {
+    "name": "白水湖",
+    "name:en": "Baishuihu",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 6957563075,
+  "lat": 40.4413942,
+  "lon": 116.4768252,
+  "tags": {
+    "name": "小豆坡",
+    "name:en": "Xiaodoupo",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6957564394,
+  "lat": 40.4394771,
+  "lon": 116.5187812,
+  "tags": {
+    "name": "珍珠泉",
+    "name:en": "Zhenzhuquan",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 7407702691,
+  "lat": 40.4435080,
+  "lon": 116.5569450,
+  "tags": {
+    "name": "Tower 17",
+    "name:en": "Tower 17",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7697815969,
+  "lat": 40.4599248,
+  "lon": 116.4537377,
+  "tags": {
+    "name": "磨石口",
+    "name:en": "Moshikou",
+    "natural": "saddle"
+  }
+},
+{
+  "type": "node",
+  "id": 7697816045,
+  "lat": 40.4542874,
+  "lon": 116.5005428,
+  "tags": {
+    "ele": "1098",
+    "name": "尖驼山",
+    "name:en": "Jiantuo Shan",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 7697816053,
+  "lat": 40.4347905,
+  "lon": 116.5123749,
+  "tags": {
+    "ele": "586",
+    "name": "鸡冠山",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 7697867660,
+  "lat": 40.4405455,
+  "lon": 116.5284050,
+  "tags": {
+    "name": "龙潭",
+    "name:en": "Longtan",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 7697867662,
+  "lat": 40.4306031,
+  "lon": 116.5319528,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "田仙峪",
+    "name:en": "Tianxianyu",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7698952553,
+  "lat": 40.4824417,
+  "lon": 116.5023567,
+  "tags": {
+    "ele": "1141",
+    "name": "火药山 / 火焰山",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 8867488088,
+  "lat": 40.4957527,
+  "lon": 116.4733679,
+  "tags": {
+    "name": "石窑村",
+    "name:en": "Shiyao",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8867488110,
+  "lat": 40.4972567,
+  "lon": 116.4692655,
+  "tags": {
+    "bus": "yes",
+    "name": "三楼",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8867488161,
+  "lat": 40.4901878,
+  "lon": 116.4851249,
+  "tags": {
+    "bus": "yes",
+    "name": "九眼楼长城景区",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 10681007820,
+  "lat": 40.4734120,
+  "lon": 116.4998531,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南162号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 10681007822,
+  "lat": 40.4564410,
+  "lon": 116.4991567,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南149号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 10681007823,
+  "lat": 40.4546763,
+  "lon": 116.4990853,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村西南148号敌台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 10681007824,
+  "lat": 40.4560828,
+  "lon": 116.5296211,
+  "tags": {
+    "historic:civilization": "imperial_chinese",
+    "man_made": "tower",
+    "name": "雁栖镇西栅子村东南128号敌台",
+    "name:zh": "雁栖镇西栅子村东南128号敌台",
+    "name:zh-Hans": "雁栖镇西栅子村东南128号敌台",
+    "name:zh-Hant": "雁栖鎮西柵子村東南128號敵台",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "node",
+  "id": 10681088750,
+  "lat": 40.4569350,
+  "lon": 116.4983017,
+  "tags": {
+    "name": "鹰飞倒仰",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10681088751,
+  "lat": 40.4551232,
+  "lon": 116.5014082,
+  "tags": {
+    "name": "天梯",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10959797624,
+  "lat": 40.4959149,
+  "lon": 116.4733935,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "石窑村",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10959797625,
+  "lat": 40.4960133,
+  "lon": 116.4734110,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "石窑村",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10959797626,
+  "lat": 40.4960001,
+  "lon": 116.4733736,
+  "tags": {
+    "bus": "yes",
+    "name": "石窑村",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 10959797627,
+  "lat": 40.4959458,
+  "lon": 116.4734375,
+  "tags": {
+    "bus": "yes",
+    "name": "石窑村",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 10959797628,
+  "lat": 40.4902258,
+  "lon": 116.4851513,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "九眼楼长城景区",
+    "note": "不停靠",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10959797629,
+  "lat": 40.4901240,
+  "lon": 116.4850875,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "九眼楼长城景区",
+    "note": "不停靠",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10993897613,
+  "lat": 40.4915064,
+  "lon": 116.5654323,
+  "tags": {
+    "bus": "yes",
+    "name": "濂泉响谷",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 10993897616,
+  "lat": 40.4914347,
+  "lon": 116.5653834,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "濂泉响谷",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 10993897617,
+  "lat": 40.4913566,
+  "lon": 116.5658394,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "濂泉响谷",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056648,
+  "lat": 40.4832143,
+  "lon": 116.5618502,
+  "tags": {
+    "bus": "yes",
+    "name": "黄梁子",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056649,
+  "lat": 40.4832392,
+  "lon": 116.5618811,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "黄梁子",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056650,
+  "lat": 40.4831655,
+  "lon": 116.5618186,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "黄梁子",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056651,
+  "lat": 40.4718915,
+  "lon": 116.5385108,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "南沟",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056652,
+  "lat": 40.4718261,
+  "lon": 116.5384773,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "南沟",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056654,
+  "lat": 40.4702047,
+  "lon": 116.5327863,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "西栅子东",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056655,
+  "lat": 40.4702019,
+  "lon": 116.5329568,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "西栅子东",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056659,
+  "lat": 40.4699669,
+  "lon": 116.5306271,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "西栅子",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056660,
+  "lat": 40.4698621,
+  "lon": 116.5305824,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "西栅子",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11001056661,
+  "lat": 40.4641259,
+  "lon": 116.5138129,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "西栅子西",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11134409738,
+  "lat": 40.4657626,
+  "lon": 116.4743234,
+  "tags": {
+    "bus": "yes",
+    "name": "怀柔庄户",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 11134409739,
+  "lat": 40.4658055,
+  "lon": 116.4743193,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "怀柔庄户",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11134409740,
+  "lat": 40.4657045,
+  "lon": 116.4743221,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "怀柔庄户",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11142792363,
+  "lat": 40.4327069,
+  "lon": 116.4744785,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "龙泉庄",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11142792364,
+  "lat": 40.4326295,
+  "lon": 116.4744305,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "龙泉庄",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11142874444,
+  "lat": 40.4301884,
+  "lon": 116.5440271,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "北沟村",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11142874447,
+  "lat": 40.4306032,
+  "lon": 116.5318868,
+  "tags": {
+    "bus": "yes",
+    "name": "田仙峪",
+    "name:en": "Tianxianyu",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 11142874448,
+  "lat": 40.4305817,
+  "lon": 116.5318310,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "田仙峪",
+    "name:en": "Tianxianyu",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11162839246,
+  "lat": 40.4972074,
+  "lon": 116.4692797,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "三楼",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 11162839247,
+  "lat": 40.4972879,
+  "lon": 116.4692502,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "三楼",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13307985394,
+  "lat": 40.4405248,
+  "lon": 116.5601287,
+  "tags": {
+    "man_made": "tower",
+    "name": "Tower 14"
+  }
+},
+{
+  "type": "way",
+  "id": 80502613,
+  "center": {
+    "lat": 40.4366917,
+    "lon": 116.5623387
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "footway",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "source": "trace aligned bing",
+    "two_sided": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 85322145,
+  "center": {
+    "lat": 40.4455508,
+    "lon": 116.5543391
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "footway",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "layer": "-1",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sk": "Veľký čínsky múr",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hans": "长城",
+    "name:zh-Hant": "長城",
+    "source": "trace aligned bing",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 85322148,
+  "center": {
+    "lat": 40.4347918,
+    "lon": 116.5638109
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "fixme": "Based on GPS data, it seems the satellite pictures which must be the basis for the location of the wall here, are shifted south by ca. 3-5 m.",
+    "highway": "footway",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "layer": "-1",
+    "name": "慕田峪长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Mu Tian Yu Great Wall",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:it": "Grande muraglia cinese",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sk": "Veľký čínsky múr",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "慕田峪长城",
+    "name:zh-Hans": "慕田峪长城",
+    "name:zh-Hant": "慕田峪長城",
+    "surface": "paving_stones",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 85322150,
+  "center": {
+    "lat": 40.4524283,
+    "lon": 116.5464404
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sk": "Veľký čínsky múr",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hans": "长城",
+    "name:zh-Hant": "長城",
+    "source": "trace aligned bing",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 89612499,
+  "center": {
+    "lat": 40.4536472,
+    "lon": 116.5403066
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "layer": "-1",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sk": "Veľký čínsky múr",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hans": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 89623082,
+  "center": {
+    "lat": 40.4549964,
+    "lon": 116.5150469
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "雁栖镇西栅子村南段长城墙体",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 89632228,
+  "center": {
+    "lat": 40.4606854,
+    "lon": 116.4479352
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 89632280,
+  "center": {
+    "lat": 40.4580993,
+    "lon": 116.4755335
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:bs": "Veliki kineski zid",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "note": "One part of ridge moved from bing based on traces (probably miscorrected in bing due to height differences)",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 89632288,
+  "center": {
+    "lat": 40.4585621,
+    "lon": 116.4976139
+  },
+  "tags": {
+    "alt_name": "雁栖镇西栅子村西墙体",
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "箭扣西段长城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 89632289,
+  "center": {
+    "lat": 40.4816833,
+    "lon": 116.5002839
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段11段",
+    "two_sided": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 92160463,
+  "center": {
+    "lat": 40.4738498,
+    "lon": 116.4991756
+  },
+  "tags": {
+    "alt_name": "雁栖镇西栅子村西墙体",
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "箭扣西段长城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 92162845,
+  "center": {
+    "lat": 40.5071721,
+    "lon": 116.4880889
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "source": "trace aligned bing",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 183372106,
+  "center": {
+    "lat": 40.4594905,
+    "lon": 116.4534613
+  },
+  "tags": {
+    "FIXME": "Is here wall?",
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 183372107,
+  "center": {
+    "lat": 40.4555045,
+    "lon": 116.4568852
+  },
+  "tags": {
+    "FIXME": "Is here wall?",
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 183372108,
+  "center": {
+    "lat": 40.4572762,
+    "lon": 116.4545610
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "footway",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 183372109,
+  "center": {
+    "lat": 40.4603180,
+    "lon": 116.4528573
+  },
+  "tags": {
+    "FIXME": "Is here wall?",
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 184548372,
+  "center": {
+    "lat": 40.4510685,
+    "lon": 116.4801772
+  },
+  "tags": {
+    "FIXME": "Is here wall?",
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 184548373,
+  "center": {
+    "lat": 40.4543758,
+    "lon": 116.4765239
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "长城",
+    "name:als": "Chinesische Mauer",
+    "name:ar": "سور الصين العظيم",
+    "name:azb": "چین دیواری",
+    "name:be": "Вялікая Кітайская сцяна",
+    "name:be-tarask": "Вялікая кітайская сьцяна",
+    "name:cs": "Velká čínská zeď",
+    "name:de": "Chinesische Mauer",
+    "name:en": "Great Wall of China",
+    "name:es": "Gran Muralla China",
+    "name:fa": "دیوار بزرگ چین",
+    "name:fr": "Grande Muraille",
+    "name:grc": "Σινικόν Τεῖχος",
+    "name:hy": "Չինական մեծ պարիսպ",
+    "name:ka": "ჩინეთის დიდი კედელი",
+    "name:kk": "Қытай қорғаны",
+    "name:kk-Arab": "ۇلى قىتاي قورعانى",
+    "name:mk": "Кинески ѕид",
+    "name:mzn": "چین گت دیوار",
+    "name:pa": "ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ",
+    "name:pnb": "چین دی کندھ",
+    "name:ps": "د چین لوی دیوال",
+    "name:pt": "Muralha da China",
+    "name:ru": "Великая Китайская стена",
+    "name:sd": "چين جي عظيم ديوار",
+    "name:sr": "Кинески зид",
+    "name:sv": "Kinesiska muren",
+    "name:ug": "سەدىچىن سېپىلى",
+    "name:uk": "Великий китайський мур",
+    "name:ur": "دیوار چین",
+    "name:zh": "长城",
+    "name:zh-Hant": "長城",
+    "two_sided": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 184635505,
+  "center": {
+    "lat": 40.4555113,
+    "lon": 116.5303337
+  },
+  "tags": {
+    "alt_name": "雁栖镇西栅子村东南墙体",
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "箭扣东段长城",
+    "name:zh": "箭扣东段长城",
+    "name:zh-Hans": "箭扣东段长城",
+    "name:zh-Hant": "箭扣東段長城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 515044054,
+  "center": {
+    "lat": 40.4405338,
+    "lon": 116.5601386
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 14",
+    "name:de": "Turm 14",
+    "name:en": "Tower 14",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044055,
+  "center": {
+    "lat": 40.4417378,
+    "lon": 116.5579932
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 15",
+    "name:de": "Mutianyu - Great Wall - Tower #16",
+    "name:en": "Tower 16",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044057,
+  "center": {
+    "lat": 40.4440853,
+    "lon": 116.5566217
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 16",
+    "name:de": "Turm 16",
+    "name:en": "Tower 16",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044058,
+  "center": {
+    "lat": 40.4448355,
+    "lon": 116.5553750
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 17",
+    "name:de": "Turm 17",
+    "name:en": "Tower 17",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044059,
+  "center": {
+    "lat": 40.4461302,
+    "lon": 116.5545876
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 18",
+    "name:de": "Turm 18",
+    "name:en": "Tower 18",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044060,
+  "center": {
+    "lat": 40.4469733,
+    "lon": 116.5551874
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "2",
+    "man_made": "tower",
+    "name": "Tower 19",
+    "name:de": "Turm 19",
+    "name:en": "Tower 19",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044061,
+  "center": {
+    "lat": 40.4481380,
+    "lon": 116.5538377
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 20",
+    "name:de": "Turm 20",
+    "name:en": "Tower 20",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044062,
+  "center": {
+    "lat": 40.4493277,
+    "lon": 116.5533243
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 21",
+    "name:de": "Turm 21",
+    "name:en": "Tower 21",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044221,
+  "center": {
+    "lat": 40.4499295,
+    "lon": 116.5511428
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 22",
+    "name:de": "Turm 22",
+    "name:en": "Tower 22",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 515044811,
+  "center": {
+    "lat": 40.4505594,
+    "lon": 116.5492626
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 23",
+    "name:de": "Turm 23",
+    "name:en": "Tower 23",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306232,
+  "center": {
+    "lat": 40.4301856,
+    "lon": 116.5657682
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "city_gate",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "正关台",
+    "name:en": "Zhengguantai Pass",
+    "name:zh": "正关台",
+    "name:zh-Hans": "正关台",
+    "name:zh-Hant": "正關台",
+    "source": "https://www.flickr.com/photos/125134384@N03/33801222026/in/album-72157678942446813/",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306235,
+  "center": {
+    "lat": 40.4306705,
+    "lon": 116.5650577
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 5",
+    "name:en": "Tower 5",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306238,
+  "center": {
+    "lat": 40.4314981,
+    "lon": 116.5645320
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 6",
+    "name:en": "Tower 6",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306242,
+  "center": {
+    "lat": 40.4331003,
+    "lon": 116.5641619
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "man_made": "tower",
+    "name": "Tower 7",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306245,
+  "center": {
+    "lat": 40.4343794,
+    "lon": 116.5634864
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 8",
+    "name:en": "Tower 8",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306248,
+  "center": {
+    "lat": 40.4350214,
+    "lon": 116.5624896
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 9",
+    "name:en": "Tower 9",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306254,
+  "center": {
+    "lat": 40.4366584,
+    "lon": 116.5626128
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 11",
+    "name:en": "Tower 11",
+    "tower:type": "defensive",
+    "wpt_description": "05-OCT-10 3:05:28AM"
+  }
+},
+{
+  "type": "way",
+  "id": 539306257,
+  "center": {
+    "lat": 40.4361059,
+    "lon": 116.5620278
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 10",
+    "name:en": "Tower 10",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306264,
+  "center": {
+    "lat": 40.4383246,
+    "lon": 116.5614321
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "man_made": "tower",
+    "name": "Tower 12",
+    "name:en": "Tower 12",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306270,
+  "center": {
+    "lat": 40.4394529,
+    "lon": 116.5608148
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower 13",
+    "name:en": "Tower 13",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 539306280,
+  "center": {
+    "lat": 40.4407995,
+    "lon": 116.5591414
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "Tower",
+    "name:en": "Tower 15",
+    "tourism": "attraction",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 1147959548,
+  "center": {
+    "lat": 40.4643273,
+    "lon": 116.4947816
+  },
+  "tags": {
+    "alt_name": "雁栖镇西栅子村西墙体",
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "箭扣西段长城",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1147959550,
+  "center": {
+    "lat": 40.4557444,
+    "lon": 116.5032707
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "雁栖镇西栅子村南段长城墙体",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1164087390,
+  "center": {
+    "lat": 40.4867257,
+    "lon": 116.5076743
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段49段",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1164087391,
+  "center": {
+    "lat": 40.4968710,
+    "lon": 116.5117992
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段50段",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1164087392,
+  "center": {
+    "lat": 40.4933906,
+    "lon": 116.5132232
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段50段",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1164087393,
+  "center": {
+    "lat": 40.4958256,
+    "lon": 116.5135307
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段50段",
+    "two_sided": "yes",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1270424288,
+  "center": {
+    "lat": 40.4813616,
+    "lon": 116.4952667
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "延庆县110号敌台",
+    "tower:type": "defensive",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1270424289,
+  "center": {
+    "lat": 40.4812862,
+    "lon": 116.4943519
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段11段",
+    "two_sided": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1270424290,
+  "center": {
+    "lat": 40.4818444,
+    "lon": 116.5023414
+  },
+  "tags": {
+    "alt_name": "雁栖镇西栅子村西南169号敌台 / 延庆县108号敌台",
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "九眼楼",
+    "tower:type": "defensive",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1270424291,
+  "center": {
+    "lat": 40.4813827,
+    "lon": 116.4988087
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "layer": "1",
+    "man_made": "tower",
+    "name": "延庆县长城",
+    "tower:type": "defensive",
+    "wikidata": "Q11088230"
+  }
+},
+{
+  "type": "way",
+  "id": 1270424292,
+  "center": {
+    "lat": 40.4812609,
+    "lon": 116.4967836
+  },
+  "tags": {
+    "barrier": "city_wall",
+    "highway": "path",
+    "historic": "citywalls",
+    "historic:civilization": "imperial_chinese",
+    "name": "延庆县长城段11段",
+    "two_sided": "yes"
+  }
+}
+
+  ]
+}

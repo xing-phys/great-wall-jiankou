@@ -1,0 +1,26 @@
+{
+  "name": "jiankou-3d",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "An interactive 3D reconstruction of the Jiankou Great Wall",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "data:terrain": "python3 scripts/build_terrain.py",
+    "data:wall": "python3 scripts/build_wall.py"
+  },
+  "dependencies": {
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.7"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.19"
+  }
+}
