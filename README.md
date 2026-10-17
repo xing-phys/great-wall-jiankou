@@ -1,5 +1,7 @@
 # 箭扣长城 · Jiankou 3D
 
+**中文** · [English](README.en.md)
+
 在浏览器里运行的箭扣长城三维重建。山脊来自真实的 SRTM 高程，墙体走向与敌楼位置来自 OpenStreetMap；边墙、垛口、敌楼、石阶和山林由程序化几何生成。
 
 ![箭扣长城三维场景](docs/hero.png)
@@ -17,6 +19,8 @@ An interactive, browser-based 3D reconstruction of the Jiankou Great Wall. Real 
 - All wall and tower geometry is interpretive, not survey-grade.
 
 The Chinese sections below contain the full build notes and data sources.
+
+→ **[Read the full English README](README.en.md)**
 
 ## 内容
 
